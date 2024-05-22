@@ -19,9 +19,7 @@ This program is designed for use by various stakeholders, including:
 * Delete Listings: Remove outdated or incorrect business listings to maintain the accuracy and relevance of the directory.
 * Sort Listings: Sort business listings alphabetically by name or category, or by other criteria such as location or date added, to enhance browsing efficiency.
 
-## Flowchart
-Here's a representation of the program's workflow:
-![alt text](Flow Chart_page-0001.jpg)
+	![Here's a representation of the program's workflow:](Flow Chart_page-0001.jpg)
 
 ## User Instructions
 To run this program, follow these instructions:
